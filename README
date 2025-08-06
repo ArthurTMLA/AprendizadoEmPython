@@ -1,0 +1,50 @@
+# 🐍 Meus Projetos em Python
+
+Bem-vindo(a) ao meu repositório de **projetos em Python**!  
+Aqui eu reúno todos os meus scripts, jogos e experimentos desenvolvidos enquanto estudo a linguagem Python.  
+O objetivo deste espaço é **praticar programação**, **compartilhar projetos** e **mostrar minha evolução como desenvolvedor(a)**.
+
+---
+
+## 📂 O que você vai encontrar aqui
+
+- ✅ **Projetos iniciais** – Scripts simples de estudo e lógica de programação  
+- 🎮 **Mini Jogos** – Jogo de adivinhação, jogos de texto e desafios divertidos  
+- 🔢 **Conversores e Calculadoras** – Programas que transformam dados e realizam cálculos  
+- 📚 **Exercícios de Estudos** – Exercícios resolvidos de cursos e tutoriais  
+
+Cada pasta ou arquivo `.py` contém:
+- O **código-fonte** em Python  
+
+---
+
+## 🚀 Como usar
+
+1. **Clone este repositório** para o seu computador:
+   ```bash
+   git clone https://github.com/seuusuario/seurepositorio.git
+
+    Acesse a pasta do repositório:
+
+cd seurepositorio
+
+Execute qualquer projeto Python usando:
+
+    python nome_do_projeto.py
+
+    ⚡ É recomendado usar Python 3.10 ou superior para compatibilidade com todos os scripts.
+
+🧠 Objetivo
+
+Este repositório é meu diário de aprendizado em Python.
+Cada commit representa um novo conhecimento ou desafio concluído.
+Se você também está aprendendo Python, sinta-se à vontade para explorar os códigos, testar e deixar sugestões! 😄
+💡 Próximos passos
+
+    Organizar projetos por categorias (Jogos, Calculadoras, Exercícios)
+
+    Adicionar novos desafios semanais
+
+    Criar documentações com exemplos de saída
+
+Feito com ☕ e muito print() por Arthur Santos.
